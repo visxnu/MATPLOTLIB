@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for a repository involving Matplotlib:
-
----
-
 # Matplotlib Visualization Repository  
 
 Welcome to the **Matplotlib Visualization Repository**! This repository contains examples, tutorials, and projects showcasing the power of **Matplotlib**, a widely used Python library for creating static, interactive, and animated visualizations.
